@@ -83,6 +83,8 @@ a_n ≈ 275 * e^(-0.531n)   with R² = 0.933
 
 This shows a strong correlation with geometric decay.
 
+![Missle launch chart](assets/missiles.png)
+
 ---
 
 ### Forecasting
