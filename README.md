@@ -99,7 +99,7 @@ Following the trend, the forecast for Day 5 (June 17, sunset) is **\~20 missiles
 
 According to [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-18/ty-article-live/00000197-7fbd-d717-a1df-fffd1ca10000?liveBlogItemId=1669191297#1669191297), [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-18/ty-article-live/00000197-7fbd-d717-a1df-fffd1ca10000?liveBlogItemId=68016858#68016858), and [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-18/ty-article-live/00000197-7fbd-d717-a1df-fffd1ca10000?liveBlogItemId=765299713#765299713), **17–18 missiles** were launched from Iran in the last 24 hours and my forcast was 20 missiles.
 
-Forcast for  Day 6 (June 18 from sunset to June 19 in sunset) is **\~11 missiles** (model says 10.89). Missiles leff for Iran: 20~21.
+Forcast for  Day 6 (June 18 from sunset to June 19 in sunset) is **\~11 missiles** (model says 10.89). Missiles left for Iran: 20~21.
 
 Updated graph:
 
