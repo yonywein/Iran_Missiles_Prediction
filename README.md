@@ -87,9 +87,20 @@ This shows a strong correlation with geometric decay.
 
 ---
 
-### Forecasting
+## Forecasting
+
+### 17.6
 
 Following the trend, the forecast for Day 5 (June 17, sunset) is **\~20 missiles**.
+
+---
+
+### Update 18.6
+
+According to [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-18/ty-article-live/00000197-7fbd-d717-a1df-fffd1ca10000?liveBlogItemId=1669191297#1669191297), [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-18/ty-article-live/00000197-7fbd-d717-a1df-fffd1ca10000?liveBlogItemId=68016858#68016858), and [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-18/ty-article-live/00000197-7fbd-d717-a1df-fffd1ca10000?liveBlogItemId=765299713#765299713), **17–18 missiles** were launched from Iran in the last 24 hours and my forcast was 20 missiles.
+
+Forcast for  Day 6 (June 18 from sunset to June 19 in sunset) is **\~11 missiles** (model says 10.89).
+
 
 ---
 
@@ -100,5 +111,3 @@ Following the trend, the forecast for Day 5 (June 17, sunset) is **\~20 missiles
 * Fitting was done using standard exponential regression.
 
 > Main reference: [CSIS – Iran’s Options for Retaliating Against Israel](https://www.csis.org/analysis/irans-options-retaliating-against-israel)
-
----
