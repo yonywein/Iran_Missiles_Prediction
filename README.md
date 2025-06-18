@@ -101,6 +101,9 @@ According to [Haaretz](https://www.haaretz.co.il/news/politics/war-2023/2025-06-
 
 Forcast for  Day 6 (June 18 from sunset to June 19 in sunset) is **\~11 missiles** (model says 10.89).
 
+Updated graph:
+
+![Missle launch chart 18.6](assets/missiles_18_6.png)
 
 ---
 
