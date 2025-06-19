@@ -106,6 +106,13 @@ Updated graph:
 ![Missle launch chart 18.6](assets/missiles_18_6.png)
 
 ---
+### Update 19.6
+In the past 24 hours, approximately **50 missiles** were launched from Iran, substantially exceeding the previous forecast of 11 missiles. The updated forecast for the next 24 hours (beginning June 19, 21:30) is **13 missiles**. This deviation indicates a lower decay factor than previously estimated, now calculated at **0.36**.
+The methodology has also been refined: rather than fitting a function to daily launch counts, the model is now fitted to the cumulative sum of launches over time. Further details are provided in the accompanying Jupyter notebook.
+
+![chart 19.6](assets/plot_19.6.png)
+
+---
 
 ## Data Sources and Methodology
 
